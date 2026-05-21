@@ -43,3 +43,4 @@ for row in matrix:
 print("Відсортований масив (по рядках):")
 for row in matrix:
     print(row)
+
